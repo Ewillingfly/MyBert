@@ -1,3 +1,8 @@
 tensorflow >= 1.11.0   # CPU Version of TensorFlow.
 # tensorflow-gpu  >= 1.11.0  # GPU version of TensorFlow.
+<<<<<<< HEAD
 o update version to v1.3.3
+=======
+o update version to v1.3.2
+>>>>>>> dev
+o update version to v1.3.5
